@@ -22,3 +22,9 @@ $ raco pkg install sicp
 ```
 alias lisprepl='racket -I sicp'
 ```
+
+しかし、折角やるからには記録を残しておきたいので、できる限りREPLではなくrktファイルを作成して学習するつもりです。
+
+エディタはVScodeを使用しています。
+
+extensionのsjhuangx.vscode-schemeを使用しています。
